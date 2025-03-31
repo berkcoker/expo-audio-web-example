@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "expo-audio-web",
+    "slug": "expo-audio-web",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
